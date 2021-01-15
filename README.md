@@ -1,4 +1,5 @@
 directory.io with balance and other options
+show address if balance > 0 in option
 Install Go
 Install dependencies:
 
