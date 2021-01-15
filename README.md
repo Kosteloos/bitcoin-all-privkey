@@ -1,4 +1,4 @@
-directory.io
+directory.io with balance and other options
 Install Go
 Install dependencies:
 
